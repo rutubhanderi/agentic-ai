@@ -1,0 +1,25 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Chroma database files
+chroma_langchain_db/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+
+# Environment files
+.env
+*.env
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
