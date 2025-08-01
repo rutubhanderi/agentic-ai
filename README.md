@@ -1,2 +1,5 @@
-### Local AI Agent
-- Python,Ollama,Langchain
+###  Repo contains
+- AI agents
+- Langchain
+- RAG
+- LLMs
